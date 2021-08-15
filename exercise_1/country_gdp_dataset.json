@@ -1,0 +1,738 @@
+[
+    {
+        "country_name": "Japan",
+        "gdp_dept": "237.54%"
+    },
+    {
+        "country_name": "Venezuela",
+        "gdp_dept": "214.45%"
+    },
+    {
+        "country_name": "Sudan",
+        "gdp_dept": "177.87%"
+    },
+    {
+        "country_name": "Greece",
+        "gdp_dept": "174.15%"
+    },
+    {
+        "country_name": "Lebanon",
+        "gdp_dept": "157.81%"
+    },
+    {
+        "country_name": "Italy",
+        "gdp_dept": "133.43%"
+    },
+    {
+        "country_name": "Eritrea",
+        "gdp_dept": "127.34%"
+    },
+    {
+        "country_name": "Cape Verde",
+        "gdp_dept": "125.29%"
+    },
+    {
+        "country_name": "Mozambique",
+        "gdp_dept": "124.46%"
+    },
+    {
+        "country_name": "Portugal",
+        "gdp_dept": "119.46%"
+    },
+    {
+        "country_name": "Barbados",
+        "gdp_dept": "117.27%"
+    },
+    {
+        "country_name": "Singapore",
+        "gdp_dept": "109.37%"
+    },
+    {
+        "country_name": "United States",
+        "gdp_dept": "106.70%"
+    },
+    {
+        "country_name": "Bhutan",
+        "gdp_dept": "103.85%"
+    },
+    {
+        "country_name": "Cyprus",
+        "gdp_dept": "101.04%"
+    },
+    {
+        "country_name": "Bahrain",
+        "gdp_dept": "100.19%"
+    },
+    {
+        "country_name": "Belgium",
+        "gdp_dept": "99.57%"
+    },
+    {
+        "country_name": "France",
+        "gdp_dept": "99.20%"
+    },
+    {
+        "country_name": "Spain",
+        "gdp_dept": "95.96%"
+    },
+    {
+        "country_name": "Jordan",
+        "gdp_dept": "94.83%"
+    },
+    {
+        "country_name": "Jamaica",
+        "gdp_dept": "94.13%"
+    },
+    {
+        "country_name": "Belize",
+        "gdp_dept": "92.64%"
+    },
+    {
+        "country_name": "Angola",
+        "gdp_dept": "90.46%"
+    },
+    {
+        "country_name": "Brazil",
+        "gdp_dept": "90.36%"
+    },
+    {
+        "country_name": "Republic Of The Congo",
+        "gdp_dept": "90.19%"
+    },
+    {
+        "country_name": "Antigua And Barbuda",
+        "gdp_dept": "88.35%"
+    },
+    {
+        "country_name": "Canada",
+        "gdp_dept": "88.01%"
+    },
+    {
+        "country_name": "Egypt",
+        "gdp_dept": "86.93%"
+    },
+    {
+        "country_name": "United Kingdom",
+        "gdp_dept": "85.67%"
+    },
+    {
+        "country_name": "Aruba",
+        "gdp_dept": "83.57%"
+    },
+    {
+        "country_name": "Sri Lanka",
+        "gdp_dept": "82.99%"
+    },
+    {
+        "country_name": "Tunisia",
+        "gdp_dept": "81.55%"
+    },
+    {
+        "country_name": "Mauritania",
+        "gdp_dept": "80.61%"
+    },
+    {
+        "country_name": "Zambia",
+        "gdp_dept": "80.50%"
+    },
+    {
+        "country_name": "Dominica",
+        "gdp_dept": "79.84%"
+    },
+    {
+        "country_name": "Gambia",
+        "gdp_dept": "78.67%"
+    },
+    {
+        "country_name": "San Marino",
+        "gdp_dept": "77.12%"
+    },
+    {
+        "country_name": "Pakistan",
+        "gdp_dept": "77.00%"
+    },
+    {
+        "country_name": "Argentina",
+        "gdp_dept": "75.90%"
+    },
+    {
+        "country_name": "Sao Tome And Principe",
+        "gdp_dept": "74.10%"
+    },
+    {
+        "country_name": "Sierra Leone",
+        "gdp_dept": "72.37%"
+    },
+    {
+        "country_name": "Suriname",
+        "gdp_dept": "72.05%"
+    },
+    {
+        "country_name": "Saint Lucia",
+        "gdp_dept": "71.62%"
+    },
+    {
+        "country_name": "Saint Vincent And The Grenadines",
+        "gdp_dept": "71.38%"
+    },
+    {
+        "country_name": "Uruguay",
+        "gdp_dept": "71.34%"
+    },
+    {
+        "country_name": "Austria",
+        "gdp_dept": "71.17%"
+    },
+    {
+        "country_name": "Croatia",
+        "gdp_dept": "70.73%"
+    },
+    {
+        "country_name": "Montenegro",
+        "gdp_dept": "70.58%"
+    },
+    {
+        "country_name": "Togo",
+        "gdp_dept": "70.39%"
+    },
+    {
+        "country_name": "India",
+        "gdp_dept": "69.04%"
+    },
+    {
+        "country_name": "El Salvador",
+        "gdp_dept": "68.10%"
+    },
+    {
+        "country_name": "Mauritius",
+        "gdp_dept": "67.50%"
+    },
+    {
+        "country_name": "Hungary",
+        "gdp_dept": "66.62%"
+    },
+    {
+        "country_name": "Slovenia",
+        "gdp_dept": "65.44%"
+    },
+    {
+        "country_name": "Albania",
+        "gdp_dept": "65.13%"
+    },
+    {
+        "country_name": "Morocco",
+        "gdp_dept": "65.11%"
+    },
+    {
+        "country_name": "Laos",
+        "gdp_dept": "64.13%"
+    },
+    {
+        "country_name": "Burundi",
+        "gdp_dept": "63.54%"
+    },
+    {
+        "country_name": "Djibouti",
+        "gdp_dept": "62.99%"
+    },
+    {
+        "country_name": "Ireland",
+        "gdp_dept": "62.42%"
+    },
+    {
+        "country_name": "Ukraine",
+        "gdp_dept": "62.03%"
+    },
+    {
+        "country_name": "Senegal",
+        "gdp_dept": "62.00%"
+    },
+    {
+        "country_name": "Ghana",
+        "gdp_dept": "61.99%"
+    },
+    {
+        "country_name": "Maldives",
+        "gdp_dept": "61.43%"
+    },
+    {
+        "country_name": "Oman",
+        "gdp_dept": "61.29%"
+    },
+    {
+        "country_name": "Bahamas",
+        "gdp_dept": "60.49%"
+    },
+    {
+        "country_name": "Nauru",
+        "gdp_dept": "60.39%"
+    },
+    {
+        "country_name": "Finland",
+        "gdp_dept": "59.88%"
+    },
+    {
+        "country_name": "Saint Kitts And Nevis",
+        "gdp_dept": "59.49%"
+    },
+    {
+        "country_name": "Malawi",
+        "gdp_dept": "59.01%"
+    },
+    {
+        "country_name": "Israel",
+        "gdp_dept": "58.96%"
+    },
+    {
+        "country_name": "Gabon",
+        "gdp_dept": "58.48%"
+    },
+    {
+        "country_name": "South Africa",
+        "gdp_dept": "57.81%"
+    },
+    {
+        "country_name": "Puerto Rico",
+        "gdp_dept": "57.70%"
+    },
+    {
+        "country_name": "Ethiopia",
+        "gdp_dept": "57.43%"
+    },
+    {
+        "country_name": "Vietnam",
+        "gdp_dept": "57.36%"
+    },
+    {
+        "country_name": "Guyana",
+        "gdp_dept": "57.22%"
+    },
+    {
+        "country_name": "Bolivia",
+        "gdp_dept": "57.11%"
+    },
+    {
+        "country_name": "Germany",
+        "gdp_dept": "56.93%"
+    },
+    {
+        "country_name": "Malaysia",
+        "gdp_dept": "56.32%"
+    },
+    {
+        "country_name": "Costa Rica",
+        "gdp_dept": "56.15%"
+    },
+    {
+        "country_name": "Grenada",
+        "gdp_dept": "56.12%"
+    },
+    {
+        "country_name": "Kyrgyzstan",
+        "gdp_dept": "56.09%"
+    },
+    {
+        "country_name": "Niger",
+        "gdp_dept": "55.60%"
+    },
+    {
+        "country_name": "Kenya",
+        "gdp_dept": "55.50%"
+    },
+    {
+        "country_name": "China",
+        "gdp_dept": "55.36%"
+    },
+    {
+        "country_name": "Guinea Bissau",
+        "gdp_dept": "54.92%"
+    },
+    {
+        "country_name": "Yemen",
+        "gdp_dept": "54.51%"
+    },
+    {
+        "country_name": "Seychelles",
+        "gdp_dept": "54.49%"
+    },
+    {
+        "country_name": "Mexico",
+        "gdp_dept": "54.11%"
+    },
+    {
+        "country_name": "Benin",
+        "gdp_dept": "54.00%"
+    },
+    {
+        "country_name": "Qatar",
+        "gdp_dept": "52.74%"
+    },
+    {
+        "country_name": "Vanuatu",
+        "gdp_dept": "52.18%"
+    },
+    {
+        "country_name": "Netherlands",
+        "gdp_dept": "52.04%"
+    },
+    {
+        "country_name": "Namibia",
+        "gdp_dept": "51.60%"
+    },
+    {
+        "country_name": "Belarus",
+        "gdp_dept": "51.08%"
+    },
+    {
+        "country_name": "Serbia",
+        "gdp_dept": "50.95%"
+    },
+    {
+        "country_name": "Ivory Coast",
+        "gdp_dept": "50.92%"
+    },
+    {
+        "country_name": "Iraq",
+        "gdp_dept": "50.25%"
+    },
+    {
+        "country_name": "Fiji",
+        "gdp_dept": "50.22%"
+    },
+    {
+        "country_name": "Rwanda",
+        "gdp_dept": "50.00%"
+    },
+    {
+        "country_name": "Trinidad And Tobago",
+        "gdp_dept": "49.75%"
+    },
+    {
+        "country_name": "Tajikistan",
+        "gdp_dept": "49.46%"
+    },
+    {
+        "country_name": "Samoa",
+        "gdp_dept": "49.44%"
+    },
+    {
+        "country_name": "Ecuador",
+        "gdp_dept": "49.20%"
+    },
+    {
+        "country_name": "Colombia",
+        "gdp_dept": "49.16%"
+    },
+    {
+        "country_name": "Armenia",
+        "gdp_dept": "47.95%"
+    },
+    {
+        "country_name": "Poland",
+        "gdp_dept": "47.48%"
+    },
+    {
+        "country_name": "Algeria",
+        "gdp_dept": "46.92%"
+    },
+    {
+        "country_name": "Slovakia",
+        "gdp_dept": "46.90%"
+    },
+    {
+        "country_name": "Liberia",
+        "gdp_dept": "46.66%"
+    },
+    {
+        "country_name": "Guinea",
+        "gdp_dept": "45.98%"
+    },
+    {
+        "country_name": "Georgia",
+        "gdp_dept": "45.05%"
+    },
+    {
+        "country_name": "Uganda",
+        "gdp_dept": "44.81%"
+    },
+    {
+        "country_name": "Chad",
+        "gdp_dept": "42.91%"
+    },
+    {
+        "country_name": "Burkina Faso",
+        "gdp_dept": "42.47%"
+    },
+    {
+        "country_name": "Malta",
+        "gdp_dept": "42.46%"
+    },
+    {
+        "country_name": "Central African Republic",
+        "gdp_dept": "42.25%"
+    },
+    {
+        "country_name": "Dominican Republic",
+        "gdp_dept": "41.92%"
+    },
+    {
+        "country_name": "Thailand",
+        "gdp_dept": "41.47%"
+    },
+    {
+        "country_name": "Eswatini",
+        "gdp_dept": "41.11%"
+    },
+    {
+        "country_name": "Australia",
+        "gdp_dept": "41.10%"
+    },
+    {
+        "country_name": "Madagascar",
+        "gdp_dept": "41.02%"
+    },
+    {
+        "country_name": "Nicaragua",
+        "gdp_dept": "40.88%"
+    },
+    {
+        "country_name": "Honduras",
+        "gdp_dept": "40.80%"
+    },
+    {
+        "country_name": "South Korea",
+        "gdp_dept": "40.54%"
+    },
+    {
+        "country_name": "North Macedonia",
+        "gdp_dept": "40.48%"
+    },
+    {
+        "country_name": "Switzerland",
+        "gdp_dept": "39.49%"
+    },
+    {
+        "country_name": "Myanmar",
+        "gdp_dept": "39.19%"
+    },
+    {
+        "country_name": "Philippines",
+        "gdp_dept": "39.10%"
+    },
+    {
+        "country_name": "Cameroon",
+        "gdp_dept": "38.11%"
+    },
+    {
+        "country_name": "Romania",
+        "gdp_dept": "37.99%"
+    },
+    {
+        "country_name": "Lesotho",
+        "gdp_dept": "37.95%"
+    },
+    {
+        "country_name": "South Sudan",
+        "gdp_dept": "37.81%"
+    },
+    {
+        "country_name": "Panama",
+        "gdp_dept": "37.81%"
+    },
+    {
+        "country_name": "Papua New Guinea",
+        "gdp_dept": "37.72%"
+    },
+    {
+        "country_name": "Equatorial Guinea",
+        "gdp_dept": "37.49%"
+    },
+    {
+        "country_name": "Sweden",
+        "gdp_dept": "37.23%"
+    },
+    {
+        "country_name": "Mali",
+        "gdp_dept": "36.93%"
+    },
+    {
+        "country_name": "Norway",
+        "gdp_dept": "36.75%"
+    },
+    {
+        "country_name": "Latvia",
+        "gdp_dept": "36.66%"
+    },
+    {
+        "country_name": "Tanzania",
+        "gdp_dept": "36.57%"
+    },
+    {
+        "country_name": "Bosnia And Herzegovina",
+        "gdp_dept": "36.34%"
+    },
+    {
+        "country_name": "Haiti",
+        "gdp_dept": "36.23%"
+    },
+    {
+        "country_name": "Comoros",
+        "gdp_dept": "35.08%"
+    },
+    {
+        "country_name": "Bangladesh",
+        "gdp_dept": "34.81%"
+    },
+    {
+        "country_name": "Taiwan",
+        "gdp_dept": "33.91%"
+    },
+    {
+        "country_name": "Lithuania",
+        "gdp_dept": "33.79%"
+    },
+    {
+        "country_name": "Denmark",
+        "gdp_dept": "33.61%"
+    },
+    {
+        "country_name": "Iceland",
+        "gdp_dept": "33.13%"
+    },
+    {
+        "country_name": "Nepal",
+        "gdp_dept": "33.07%"
+    },
+    {
+        "country_name": "Czech Republic",
+        "gdp_dept": "31.57%"
+    },
+    {
+        "country_name": "Turkmenistan",
+        "gdp_dept": "30.25%"
+    },
+    {
+        "country_name": "Nigeria",
+        "gdp_dept": "30.05%"
+    },
+    {
+        "country_name": "Iran",
+        "gdp_dept": "30.04%"
+    },
+    {
+        "country_name": "Turkey",
+        "gdp_dept": "29.93%"
+    },
+    {
+        "country_name": "Cambodia",
+        "gdp_dept": "29.57%"
+    },
+    {
+        "country_name": "Indonesia",
+        "gdp_dept": "29.29%"
+    },
+    {
+        "country_name": "Moldova",
+        "gdp_dept": "28.82%"
+    },
+    {
+        "country_name": "New Zealand",
+        "gdp_dept": "28.07%"
+    },
+    {
+        "country_name": "Peru",
+        "gdp_dept": "27.18%"
+    },
+    {
+        "country_name": "Chile",
+        "gdp_dept": "27.17%"
+    },
+    {
+        "country_name": "Guatemala",
+        "gdp_dept": "24.76%"
+    },
+    {
+        "country_name": "Saudi Arabia",
+        "gdp_dept": "23.71%"
+    },
+    {
+        "country_name": "Kiribati",
+        "gdp_dept": "23.48%"
+    },
+    {
+        "country_name": "Marshall Islands",
+        "gdp_dept": "23.37%"
+    },
+    {
+        "country_name": "Uzbekistan",
+        "gdp_dept": "23.23%"
+    },
+    {
+        "country_name": "Paraguay",
+        "gdp_dept": "22.37%"
+    },
+    {
+        "country_name": "Tuvalu",
+        "gdp_dept": "21.81%"
+    },
+    {
+        "country_name": "Luxembourg",
+        "gdp_dept": "21.61%"
+    },
+    {
+        "country_name": "Zimbabwe",
+        "gdp_dept": "20.99%"
+    },
+    {
+        "country_name": "Kazakhstan",
+        "gdp_dept": "20.90%"
+    },
+    {
+        "country_name": "Bulgaria",
+        "gdp_dept": "19.33%"
+    },
+    {
+        "country_name": "United Arab Emirates",
+        "gdp_dept": "19.20%"
+    },
+    {
+        "country_name": "Micronesia",
+        "gdp_dept": "18.41%"
+    },
+    {
+        "country_name": "Kuwait",
+        "gdp_dept": "17.78%"
+    },
+    {
+        "country_name": "Azerbaijan",
+        "gdp_dept": "17.59%"
+    },
+    {
+        "country_name": "Solomon Islands",
+        "gdp_dept": "14.56%"
+    },
+    {
+        "country_name": "Dr Congo",
+        "gdp_dept": "14.01%"
+    },
+    {
+        "country_name": "Russia",
+        "gdp_dept": "13.79%"
+    },
+    {
+        "country_name": "Botswana",
+        "gdp_dept": "12.78%"
+    },
+    {
+        "country_name": "Estonia",
+        "gdp_dept": "7.61%"
+    },
+    {
+        "country_name": "Afghanistan",
+        "gdp_dept": "6.88%"
+    },
+    {
+        "country_name": "Brunei",
+        "gdp_dept": "2.63%"
+    }
+]
